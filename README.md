@@ -23,5 +23,4 @@ Innovative Technology: Leverage the advanced capabilities of the M1 chip.
 FlamesCo Expertise: Benefit from FlamesCo's extensive experience in M1 Mac porting.
 Community-Driven: Regular updates and improvements based on user feedback.
  
-Engage with other users and our development team, share feedback, and stay updated with the latest enhancements.
-
+ ## [C] Flames Co. & DAVE PLUMMMER - MS CORP 
